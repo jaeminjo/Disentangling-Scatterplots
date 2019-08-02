@@ -3,7 +3,7 @@ Disentangled Representation of Data Distributions in Scatterplots
 
 This repository demonstrates source codes and the dataset used in the paper "Disentangled Representation of Data Distributions in Scatterplots (IEEE InfoVis 2019 Short, [PDF](https://github.com/e-/Disentangling-Scatterplots/blob/master/paper.pdf))".
 
-**This is a snapshot of [the original repository](https://github.com/e-/Disentangling-Scatterplots/releases). If you have issues, questions, or pull requests, please use the original repository.**
+**This is a snapshot of [the original repository](https://github.com/e-/Disentangling-Scatterplots). If you have issues, questions, or pull requests, please use the original repository.**
 
 ## Dependency
 
